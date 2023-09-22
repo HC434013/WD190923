@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
 .container {
     display:flex;
     flex-flow: row wrap;
@@ -20,3 +22,6 @@
     flex: 0 1 20%
 }
 
+.main-content p {
+    font-family: 'Croissant One', cursive;
+}
